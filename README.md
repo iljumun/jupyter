@@ -1,1 +1,1 @@
-# jupyter연습
+# jupyter
